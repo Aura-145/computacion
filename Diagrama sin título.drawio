@@ -1,9 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Página-1" id="TE0cuTbhbEADUialpffD">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-1" value="Te mata con&amp;nbsp;&lt;div&gt;sus&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;tijeras&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;labelPosition=center;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73ISjHV_ZyBTXVKSaDw8-2" target="73ISjHV_ZyBTXVKSaDw8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-6" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="73ISjHV_ZyBTXVKSaDw8-2" target="73ISjHV_ZyBTXVKSaDw8-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-2" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;¿Crees que soy bonita?&lt;/blockquote&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;align=center;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-4" value="Se quita la&amp;nbsp;&lt;div&gt;mascara&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-7" value="Diagrama de una conversacion con Kuchisake Onna" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-11" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="73ISjHV_ZyBTXVKSaDw8-8" target="73ISjHV_ZyBTXVKSaDw8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-13" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="73ISjHV_ZyBTXVKSaDw8-8" target="73ISjHV_ZyBTXVKSaDw8-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-8" value="¿Ahora?" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="73ISjHV_ZyBTXVKSaDw8-4" target="73ISjHV_ZyBTXVKSaDw8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-10" value="Te corta a&amp;nbsp;&lt;div&gt;la mitad&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;labelPosition=center;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="362" y="400" width="76" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73ISjHV_ZyBTXVKSaDw8-12" value="Corta tu boca&amp;nbsp;&lt;div&gt;como la&amp;nbsp;&lt;/div&gt;&lt;div&gt;suya&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=offPageConnector;rounded=0;size=0.5;labelPosition=center;align=center;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
